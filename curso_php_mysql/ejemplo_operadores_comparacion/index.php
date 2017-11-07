@@ -35,7 +35,7 @@
 				$var1 < $var2      ---> menor que ---> TRUE si $var1 es menor que $var2
 				$var1 > $var2      ---> mayor que ---> TRUE si $var1 es mayor que $var2
 				$var1 <= $var2    ---> menor o igual que ---> TRUE si $var1 es menor o igual que $var2
-				$var1 >= $var2    ---> mayor o igual que ---> TRUE si $var1 es mayor o igual que $var2
+				$var1 >= $var2    ---> mayor o igual que ---> TRUE si $var1 es mayor o igual que $var2......
 
 				isset() ---> nos permite comprobar si la parametros estan definidos, obtendremos un TRUE
 				$_POST[] ---> es una variable global que nos permite enviar la informacion que tenemos por el lado del servido, no vista en la URL del 
