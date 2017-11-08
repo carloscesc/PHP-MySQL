@@ -46,7 +46,7 @@
 				$nombre = $_POST["txt-nombre"];
 				$edad = $_POST["txt-edad"];
 				
-				if ($nombre == "alucard21" && $edad >= 18){
+				if ($nombre == "holamundo" && $edad >= 18){
 					echo '<p class="validado">Pudo ingresar</p>';
 					echo "No ingreso usuario";
 				} else {
